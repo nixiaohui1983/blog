@@ -1,7 +1,7 @@
 ---
 title: "From Tools to Agents: AI & NotebookLM's Five Transformative Insights Redefining Productivity"
 description: "AI is evolving from passive tools to proactive agents — NotebookLM's five breakthroughs reveal a fundamental paradigm shift in information processing"
-date: 2026-06-21T14:00:00+08:00
+date: 2026-06-21T12:00:00+08:00
 image: cover.jpg
 math: false
 license: false

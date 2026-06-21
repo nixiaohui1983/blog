@@ -1,7 +1,7 @@
 ---
 title: "ツールからエージェントへ：AIとNotebookLMがもたらす5つの変革的洞察"
 description: "AIは受動的ツールから能動的エージェントへと進化している——NotebookLMの5つの画期的進展が情報処理のパラダイムシフトを明らかにする"
-date: 2026-06-21T14:00:00+08:00
+date: 2026-06-21T12:00:00+08:00
 image: cover.jpg
 math: false
 license: false

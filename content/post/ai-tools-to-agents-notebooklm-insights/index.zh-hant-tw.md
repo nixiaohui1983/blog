@@ -1,7 +1,7 @@
 ---
 title: "從工具到代理：重塑效率的AI與NotebookLM五大變革性洞察"
 description: "AI正從被動工具進化為主動代理，NotebookLM的五大變革揭示了資訊處理範式的根本轉移"
-date: 2026-06-21T14:00:00+08:00
+date: 2026-06-21T12:00:00+08:00
 image: cover.jpg
 math: false
 license: false

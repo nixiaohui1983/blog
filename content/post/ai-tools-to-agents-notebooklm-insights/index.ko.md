@@ -1,7 +1,7 @@
 ---
 title: "도구에서 에이전트로: AI와 NotebookLM이 제시하는 5가지 변혁적 인사이트"
 description: "AI가 수동적 도구에서 능동적 에이전트로 진화하는 중 — NotebookLM의 5가지 혁신이 정보 처리의 패러다임 전환을 보여준다"
-date: 2026-06-21T14:00:00+08:00
+date: 2026-06-21T12:00:00+08:00
 image: cover.jpg
 math: false
 license: false
