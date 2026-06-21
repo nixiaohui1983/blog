@@ -14,5 +14,8 @@
 # macOS
 .DS_Store
 
+# Claude
+.claude/
+
 # Node (if you later add PostCSS/Tailwind)
 node_modules/
