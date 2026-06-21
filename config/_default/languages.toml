@@ -13,3 +13,35 @@
 
     [en.params.sidebar]
         subtitle = "Notes and daily life"
+
+[zh-hant-tw]
+    label  = "正體中文"
+    title  = "我的部落格"
+    weight = 3
+
+    [zh-hant-tw.params.sidebar]
+        subtitle = "記錄並分享日常"
+
+[ja]
+    label  = "日本語"
+    title  = "私のブログ"
+    weight = 4
+
+    [ja.params.sidebar]
+        subtitle = "メモと日常"
+
+[ko]
+    label  = "한국어"
+    title  = "내 블로그"
+    weight = 5
+
+    [ko.params.sidebar]
+        subtitle = "기록하고 공유하는 일상"
+
+[fr]
+    label  = "Français"
+    title  = "Mon Blog"
+    weight = 6
+
+    [fr.params.sidebar]
+        subtitle = "Notes et vie quotidienne"
