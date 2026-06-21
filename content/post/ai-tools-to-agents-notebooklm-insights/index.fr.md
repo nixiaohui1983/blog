@@ -1,5 +1,6 @@
 ---
 title: "Des outils aux agents : l'IA et les cinq perspectives transformatrices de NotebookLM qui redéfinissent la productivité"
+slug: "ai-tools-to-agents-notebooklm-insights"
 description: "L'IA évolue d'outils passifs vers des agents proactifs — les cinq percées de NotebookLM révèlent un changement de paradigme fondamental dans le traitement de l'information"
 date: 2026-06-21T12:00:00+08:00
 image: cover.jpg
