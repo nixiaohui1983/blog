@@ -1,0 +1,16 @@
+baseURL                = "https://example.org/"
+locale                 = "zh-cn"
+title                  = "我的博客"
+defaultContentLanguage = "zh"
+hasCJKLanguage         = true
+theme    = "stack"
+
+[pagination]
+    pagerSize = 10
+
+[permalinks]
+    post = "/p/:slug/"
+    page = "/:slug/"
+
+[services.disqus]
+    shortname = ""

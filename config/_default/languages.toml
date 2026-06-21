@@ -1,0 +1,7 @@
+[zh]
+    label  = "简体中文"
+    title  = "我的博客"
+    weight = 1
+
+    [zh.params.sidebar]
+        subtitle = "记录并分享日常"

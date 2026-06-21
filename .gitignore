@@ -1,0 +1,18 @@
+# Hugo build output
+/public/
+/resources/
+.hugo_build.lock
+/assets/jsconfig.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Node (if you later add PostCSS/Tailwind)
+node_modules/

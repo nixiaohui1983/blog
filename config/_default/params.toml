@@ -1,0 +1,26 @@
+mainSections   = ["post"]
+rssFullContent = true
+favicon        = "img/icon.jpg"
+
+[footer]
+    since = 2026
+
+[sidebar]
+    emoji    = "🍥"
+    subtitle = "记录并分享日常"
+    avatar   = "img/avatar.png"
+
+[widgets]
+    homepage = [
+        { type = "search" },
+        { type = "archives", params = { limit = 5 } },
+        { type = "categories", params = { limit = 10 } },
+        { type = "tag-cloud", params = { limit = 10 } },
+    ]
+    page     = [{ type = "toc" }]
+
+[comments]
+    enabled  = false
+
+[cookies]
+    enabled = false
