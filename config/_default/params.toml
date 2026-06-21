@@ -1,6 +1,6 @@
 mainSections   = ["post"]
 rssFullContent = true
-favicon        = "img/icon.jpg"
+favicon        = "/img/icon.jpg"
 
 [footer]
     since = 2026
@@ -8,7 +8,7 @@ favicon        = "img/icon.jpg"
 [sidebar]
     emoji    = "🍥"
     subtitle = "记录并分享日常"
-    avatar   = "img/avatar.jpg"
+    avatar   = "/img/avatar.jpg"
 
 [widgets]
     homepage = [
