@@ -6,7 +6,7 @@ image:
 math: false
 license: false
 comments: true
-draft: true
+draft: false
 categories:
     - AI
 tags:
