@@ -17,5 +17,9 @@
 # Claude
 .claude/
 
+# Cron
+.claude/scheduled_tasks.json
+.claude/scheduled_tasks.lock
+
 # Node (if you later add PostCSS/Tailwind)
 node_modules/
